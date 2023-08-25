@@ -26,6 +26,9 @@ dependencies {
 
     // Javalin is a simple web framework for Java and Kotlin.
     implementation("io.javalin:javalin:5.6.2")
+
+    // SLF4J is a simple facade for various logging frameworks.
+    implementation("org.slf4j:slf4j-simple:2.0.7")
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
