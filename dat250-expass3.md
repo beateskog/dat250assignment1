@@ -1,3 +1,5 @@
+## Technical problems
+- No issues during this task
 ## Validation of the installation package
 
 ![validation](/assets/mongodb/validation.png)
